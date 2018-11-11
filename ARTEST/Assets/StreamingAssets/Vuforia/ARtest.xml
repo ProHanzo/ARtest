@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="5DollarBill" size="0.450000 0.192375" />
+    <ImageTarget name="Neoguri" size="0.400000 0.397656" />
   </Tracking>
 </QCARConfig>
